@@ -15,5 +15,8 @@
     "@astrojs/rss": "^1.0.1",
     "@astrojs/sitemap": "^1.0.0",
     "astro": "^3.2.3"
+  },
+  "devDependencies": {
+    "path-browserify": "^1.0.1"
   }
 }
